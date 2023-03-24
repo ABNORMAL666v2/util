@@ -1,0 +1,27 @@
+body {
+    background-color: #1c1c1c;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 5em;
+    text-align: center;
+    margin-top: 10%;
+}
+
+p {
+    font-size: 1.5em;
+    text-align: center;
+    margin-top: 2%;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    margin-top: 5%;
+    width: 512px; /* set width to 512 pixels */
+    height: 512px; /* set height to 512 pixels */
+}
